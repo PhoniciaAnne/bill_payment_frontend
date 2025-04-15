@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #4E9F3D; /* Vivid green */
+    --primary-dark: #225a1c;
+    --secondary-color: #F5B461; /* Warm orange */
+    --secondary-dark: #b07d31;
+    --accent-color: #EA8C55; /* Another variant for accent */
+    --light-bg: #F4FCD9;
+    --dark-text: #333;
+    --light-text: #fff;
+    --success-color: #4caf50;
+    --error-color: #f44336;
+  }
+  
